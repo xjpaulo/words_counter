@@ -5,7 +5,7 @@ WORKDIR /app
 RUN pip install -r requirements.txt
 COPY . /app
 
-ENTRYPOINT [ "python" ]
+ENTRYPOINT ["python"]
 
 EXPOSE 8080
-CMD ["index.py" ]
+CMD ["index.py"]
