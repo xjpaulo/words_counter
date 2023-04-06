@@ -55,5 +55,5 @@ $ docker exec words_counter python -m pytest tests/
 ## App live in Cloud
 
 The application is up and running in the Back4app accessing the URL below:
-``[https://wordscounter-jpaulojpc.b4a.run/](https://wordscounter-jpaulojpc.b4a.run/)``
+- [https://wordscounter-jpaulojpc.b4a.run/](https://wordscounter-jpaulojpc.b4a.run/)
 
